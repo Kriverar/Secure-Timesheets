@@ -33,7 +33,9 @@ Elige una opcion: 1          <- (entrada del usuario)
 === Registro de Usuario ===
 
 Username (no puede tener espacios y maximo 20 caracteres): juan
+
 Password (no puede tener espacios y maximo 20 caracteres): 1234
+
 Rol Employee (e) o Supervisor (s): e
 
 Usuario registrado.
@@ -49,7 +51,7 @@ Elige una opcion: 2          <- (entrada del usuario)
 
 === Iniciar Sesion ===
 
--Username: juan
+Username: juan
 -Password: 1234
 -Bienvenido juan (employee)
 
