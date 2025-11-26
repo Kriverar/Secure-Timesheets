@@ -49,9 +49,9 @@ Elige una opcion: 2          <- (entrada del usuario)
 
 === Iniciar Sesion ===
 
-Username: juan
-Password: 1234
-Bienvenido juan (employee)
+-Username: juan
+-Password: 1234
+-Bienvenido juan (employee)
 
 
 === Menu Employee ===
