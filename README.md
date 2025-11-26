@@ -67,7 +67,9 @@ Username: juan
 Opcion: 1                   <- (entrada del usuario)
 
 Horas trabajadas (1 a 24): 8
+
 Fecha (yyyy-mm-dd): 2025-11-26
+
 Descripcion corta de la tarea (sin espacios y maximo 30 caracteres): caja
 
 Timesheet creado con ID 1
