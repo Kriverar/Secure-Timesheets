@@ -1,0 +1,77 @@
+2025-11-25_21:08:28 ; 1 ; employee ; LOGIN ; user ; 1 ; success ; login correcto
+2025-11-25_21:09:37 ; 1 ; employee ; LOGIN ; user ; 1 ; success ; login correcto
+2025-11-25_21:11:21 ; 1 ; employee ; LOGIN ; user ; 1 ; success ; login correcto
+2025-11-25_21:16:54 ; 4 ; supervisor ; LOGIN ; user ; 4 ; success ; login correcto
+2025-11-25_21:21:15 ; 1 ; employee ; LOGIN ; user ; 1 ; success ; login correcto
+2025-11-25_21:21:42 ; 4 ; supervisor ; LOGIN ; user ; 4 ; success ; login correcto
+2025-11-25_21:22:25 ; 1 ; employee ; LOGIN ; user ; 1 ; success ; login correcto
+2025-11-25_21:22:48 ; 1 ; employee ; EDIT_TS ; timesheet ; 6 ; success ; timesheet editado (draft)
+2025-11-25_21:23:02 ; 1 ; employee ; SUBMIT_TS ; timesheet ; 6 ; success ; timesheet enviado (submitted)
+2025-11-25_21:23:11 ; 4 ; supervisor ; LOGIN ; user ; 4 ; success ; login correcto
+2025-11-25_21:23:21 ; 4 ; supervisor ; APPROVE_TS ; timesheet ; 6 ; success ; timesheet aprobado
+2025-11-25_21:47:23 ; 9 ; supervisor ; REGISTER_USER ; user ; 9 ; success ; usuario registrado
+2025-11-25_21:47:50 ; 9 ; supervisor ; LOGIN ; user ; 9 ; success ; login correcto
+2025-11-25_22:22:36 ; 10 ; supervisor ; REGISTER_USER ; user ; 10 ; success ; usuario registrado
+2025-11-25_22:42:31 ; -1 ; unknown ; LOGIN ; user ; -1 ; fail ; credenciales invalidas
+2025-11-25_22:42:39 ; -1 ; unknown ; LOGIN ; user ; -1 ; fail ; credenciales invalidas
+2025-11-25_22:43:01 ; 10 ; supervisor ; LOGIN ; user ; 10 ; success ; login correcto
+2025-11-25_22:43:25 ; 11 ; employee ; REGISTER_USER ; user ; 11 ; success ; usuario registrado
+2025-11-25_22:43:32 ; 11 ; employee ; LOGIN ; user ; 11 ; success ; login correcto
+2025-11-25_22:51:52 ; -1 ; unknown ; LOGIN ; user ; -1 ; fail ; credenciales invalidas
+2025-11-25_22:52:07 ; 12 ; employee ; REGISTER_USER ; user ; 12 ; success ; usuario registrado
+2025-11-25_22:52:13 ; 12 ; employee ; LOGIN ; user ; 12 ; success ; login correcto
+2025-11-25_23:45:38 ; 13 ; employee ; REGISTER_USER ; user ; 13 ; success ; usuario registrado
+2025-11-25_23:45:45 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-25_23:46:06 ; 13 ; employee ; CREATE_TS ; timesheet ; 2 ; success ; timesheet creado en draft
+2025-11-25_23:46:47 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-25_23:47:57 ; 13 ; employee ; CREATE_TS ; timesheet ; 2 ; success ; timesheet creado en draft
+2025-11-25_23:54:11 ; -1 ; unknown ; LOGIN ; user ; -1 ; fail ; credenciales invalidas
+2025-11-25_23:54:18 ; 14 ; employee ; REGISTER_USER ; user ; 14 ; success ; usuario registrado
+2025-11-25_23:54:23 ; 14 ; employee ; LOGIN ; user ; 14 ; success ; login correcto
+2025-11-25_23:54:43 ; 14 ; employee ; CREATE_TS ; timesheet ; 1 ; success ; timesheet creado en draft
+2025-11-25_23:55:11 ; 14 ; employee ; CREATE_TS ; timesheet ; 2 ; success ; timesheet creado en draft
+2025-11-26_00:01:13 ; 12 ; employee ; LOGIN ; user ; 12 ; success ; login correcto
+2025-11-26_00:01:25 ; 15 ; supervisor ; REGISTER_USER ; user ; 15 ; success ; usuario registrado
+2025-11-26_00:01:30 ; 15 ; supervisor ; LOGIN ; user ; 15 ; success ; login correcto
+2025-11-26_00:01:55 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_00:03:46 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_00:04:15 ; 13 ; employee ; CREATE_TS ; timesheet ; 3 ; success ; timesheet creado en draft
+2025-11-26_00:08:07 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_00:08:33 ; 13 ; employee ; CREATE_TS ; timesheet ; 4 ; success ; timesheet creado en draft
+2025-11-26_00:13:45 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_00:13:58 ; 13 ; employee ; CREATE_TS ; timesheet ; 5 ; success ; timesheet creado en draft
+2025-11-26_00:14:47 ; 13 ; employee ; EDIT_TS ; timesheet ; 5 ; success ; timesheet editado (draft)
+2025-11-26_00:20:20 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_00:20:50 ; 13 ; employee ; EDIT_TS ; timesheet ; 5 ; success ; timesheet editado (draft)
+2025-11-26_00:21:11 ; 13 ; employee ; SUBMIT_TS ; timesheet ; 5 ; success ; timesheet enviado (submitted)
+2025-11-26_00:21:59 ; 15 ; supervisor ; LOGIN ; user ; 15 ; success ; login correcto
+2025-11-26_00:22:15 ; 15 ; supervisor ; REJECT_TS ; timesheet ; 5 ; success ; timesheet rechazado
+2025-11-26_00:32:44 ; 15 ; supervisor ; LOGIN ; user ; 15 ; success ; login correcto
+2025-11-26_00:33:13 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_00:33:24 ; 13 ; employee ; SUBMIT_TS ; timesheet ; 3 ; success ; timesheet enviado (submitted)
+2025-11-26_00:33:26 ; 13 ; employee ; SUBMIT_TS ; timesheet ; 4 ; success ; timesheet enviado (submitted)
+2025-11-26_00:33:34 ; 15 ; supervisor ; LOGIN ; user ; 15 ; success ; login correcto
+2025-11-26_00:33:52 ; 15 ; supervisor ; APPROVE_TS ; timesheet ; 3 ; success ; timesheet aprobado
+2025-11-26_00:34:10 ; 15 ; supervisor ; REJECT_TS ; timesheet ; 4 ; success ; timesheet rechazado
+2025-11-26_00:36:03 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_00:36:28 ; 13 ; employee ; CREATE_TS ; timesheet ; 6 ; success ; timesheet creado en draft
+2025-11-26_00:36:38 ; 13 ; employee ; SUBMIT_TS ; timesheet ; 6 ; success ; timesheet enviado (submitted)
+2025-11-26_00:36:44 ; 15 ; supervisor ; LOGIN ; user ; 15 ; success ; login correcto
+2025-11-26_00:36:55 ; 15 ; supervisor ; REJECT_TS ; timesheet ; 6 ; success ; Horas mal trabajadas
+2025-11-26_00:38:34 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_00:38:47 ; 13 ; employee ; CREATE_TS ; timesheet ; 7 ; success ; timesheet creado en draft
+2025-11-26_00:38:55 ; 13 ; employee ; SUBMIT_TS ; timesheet ; 7 ; success ; timesheet enviado (submitted)
+2025-11-26_00:39:03 ; 15 ; supervisor ; LOGIN ; user ; 15 ; success ; login correcto
+2025-11-26_00:39:23 ; 15 ; supervisor ; APPROVE_TS ; timesheet ; 7 ; success ; Buenas horas trabajadas.
+2025-11-26_02:21:59 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_02:22:14 ; 13 ; employee ; CREATE_TS ; timesheet ; 8 ; success ; timesheet creado en draft
+2025-11-26_04:02:12 ; 16 ; employee ; REGISTER_USER ; user ; 16 ; success ; usuario registrado
+2025-11-26_04:02:26 ; 16 ; employee ; LOGIN ; user ; 16 ; success ; login correcto
+2025-11-26_04:05:52 ; 17 ; supervisor ; REGISTER_USER ; user ; 17 ; success ; usuario registrado
+2025-11-26_04:05:59 ; 17 ; supervisor ; LOGIN ; user ; 17 ; success ; login correcto
+2025-11-26_04:08:11 ; 13 ; employee ; LOGIN ; user ; 13 ; success ; login correcto
+2025-11-26_04:08:29 ; 13 ; employee ; CREATE_TS ; timesheet ; 9 ; success ; timesheet creado en draft
+2025-11-26_04:08:54 ; 13 ; employee ; SUBMIT_TS ; timesheet ; 8 ; success ; timesheet enviado (submitted)
+2025-11-26_04:09:05 ; 13 ; employee ; SUBMIT_TS ; timesheet ; 9 ; success ; timesheet enviado (submitted)
+2025-11-26_04:09:17 ; 10 ; supervisor ; LOGIN ; user ; 10 ; success ; login correcto
+2025-11-26_04:10:00 ; 10 ; supervisor ; APPROVE_TS ; timesheet ; 8 ; success ; Horas Trabajadas
